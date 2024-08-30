@@ -1,4 +1,0 @@
-path:
-  download_path : "/Users/park/Downloads/"
-  ytdlp_path : "/Users/park/radioconda/bin/yt-dlp"
-  ffmpeg_path : "/opt/homebrew/bin/ffmpeg"
